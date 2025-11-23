@@ -61,7 +61,7 @@ I’m interested in projects that let me:
 - ⚡ Building the discipline needed to ship real-world projects  
 
 ---
-
+<!--
 ## 💻 Featured Projects (Coming Soon)
 
 ### 🔹 **Project 1 – Responsive Website**
@@ -83,16 +83,16 @@ I’m interested in projects that let me:
   A lightweight, elegant UI feature combining creativity and functionality.  
   🔗 Repository link coming soon.
 </p>
-
+-->
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Codes_by_LEON&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codes_by_LEON&layout=compact&theme=tokyonight" height="165"/>
 </p>
-
+-->
 ---
 
 ## 📬 Connect With Me
@@ -115,7 +115,7 @@ I’m interested in projects that let me:
   🔥 <em>Thanks for visiting! More projects coming soon as I continue building, learning, and refining my craft.</em> 🔥
 </p>
 
-## 🔥 Call to Action – Connect, Collaborate, Hire
+## 🔥Connect, Collaborate, Hire
 <p align="center">
   💡 <strong>Looking for a frontend developer who values clean design, functional code, and creative solutions?</strong><br>
   🚀 Let’s collaborate, tackle challenging projects, or build something impactful together!<br>
