@@ -8,11 +8,13 @@
 
 <h3 align="center">Aspiring Frontend Engineer | Focused on Clean, Modern & Functional Design</h3>
 
+<!--
 <p align="center">
   <img src="https://via.placeholder.com/1000x300/000000/FFD700?text=Codes_by_LEON+-+Gold+%7C+Black+Tech+Banner" alt="Banner" width="100%" />
 </p>
 
 ---
+-->
 
 ## 🌟 About Me
 
@@ -60,8 +62,9 @@ I’m interested in projects that let me:
 - 👥 Growing through community learning and collaboration  
 - ⚡ Building the discipline needed to ship real-world projects  
 
----
 <!--
+---
+
 ## 💻 Featured Projects (Coming Soon)
 
 ### 🔹 **Project 1 – Responsive Website**
@@ -83,8 +86,9 @@ I’m interested in projects that let me:
   A lightweight, elegant UI feature combining creativity and functionality.  
   🔗 Repository link coming soon.
 </p>
--->
+
 ---
+-->
 <!--
 ## 📊 GitHub Stats
 
@@ -92,8 +96,9 @@ I’m interested in projects that let me:
   <img src="https://github-readme-stats.vercel.app/api?username=Codes_by_LEON&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codes_by_LEON&layout=compact&theme=tokyonight" height="165"/>
 </p>
--->
 ---
+-->
+
 
 ## 📬 Connect With Me
 
